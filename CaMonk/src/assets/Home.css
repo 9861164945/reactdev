@@ -1,0 +1,43 @@
+.Home{
+    background-color: grey;
+    height: auto;
+     width:300px;
+     padding-top: 10px;
+     color: black;
+     border:2px solid black;
+}
+.text-white text-center d-inline{
+     height: 10px;
+     font-Size: 13px;
+     padding-Left: 35%;
+
+}
+.btn btn-primary shadow-none{
+    background-Color: white;
+    color: black;
+    text-Align: center;
+    margin-left: 20px;
+    height: 40px;
+    margin-bottom: 10px 
+
+}
+.navbar navbar-expand-lg navbar-light{
+     background-color: #fff;
+}
+.navbar-brand ms-5{
+     font-weight: 700 ;
+
+}
+.btn btn-primary shadow-none{
+     width: 100px;
+}
+.btn text-white shadow-none mt-3{
+     background-color: #FF7D33 ;
+      width: 270px;
+       height: 50px;
+     border-radius: 20px ;
+}
+
+.nav-item dropdown{
+     color: black;
+}

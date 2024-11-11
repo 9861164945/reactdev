@@ -1,0 +1,15 @@
+body{
+    border: 2px solid blue;
+}
+form{
+    border: 2px solid blue;
+    align-items: center;
+    padding: 30px;
+    margin: 10px 0 10px 20px;
+}
+.an{
+    width: fit-content;
+    align-items:center;
+    padding-left: 20px;
+    border: 2px solid black;
+}

@@ -1,0 +1,10 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: url('./assets/pexels-anjana-c-169994-674010.jpg');
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

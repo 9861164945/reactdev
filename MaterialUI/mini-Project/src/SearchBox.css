@@ -1,0 +1,38 @@
+*{
+    margin: 10px;
+    padding: 0;
+    text-align: center;;
+    background:repeating-radial-gradient
+    (
+    rgba(255, 255, 255, 0) 15%,
+    rgb(14, 134, 68) 95%,
+    rgb(184, 27, 27) 73%
+  );
+
+}
+h3{
+    border: 2px solid black;
+    transition:transfrom 5s ease-in ;
+
+}
+h3:hover{
+    border-radius: 1rem;
+    transform: rotate(-180deg);
+    opacity: 0;
+
+}
+.form{
+    border-radius: 0.5rem;
+    margin: 10px;
+    border: 2px solid red;
+    background: repeating-conic-gradient(
+        white 15%,
+        yellow 15%,
+        red 33%
+      );
+    transition:transform 5s ease-in-out;
+}
+.form:hover{
+    border-radius: 2rem;
+    transform: rotate(360deg);
+}

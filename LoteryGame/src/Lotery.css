@@ -1,0 +1,58 @@
+
+body{
+    background: url('./assets/pexels-cottonbro-4835419.jpg');
+    height:100vh;
+    background-size: cover;
+    border-top-left-radius: 1rem;
+    border-radius: 2px;
+
+}
+body:hover{
+    border-radius: 1%;
+    border-color: black;
+    border: 2px solid blue;
+
+}
+.{
+    background-color: aliceblue;
+    margin: 10px,0,0,10;
+    
+}
+.dj
+{
+    border: 2px solid black;
+    background-color: #434356;
+
+}
+.dj:hover{
+    background-color: blueviolet;
+    border-radius: 15%;
+    
+    
+}
+.ticket{
+    border:2px solid red;
+    background-color: yellow;
+
+}
+.ticket:hover{
+    
+    background-color: blueviolet;
+    border-radius: 15%;
+   
+}
+
+.winning{
+    border:2px solid black;
+    color: red;
+
+}
+.winning:hover{
+    border-radius: 1 rem;
+}
+.cards-container{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
