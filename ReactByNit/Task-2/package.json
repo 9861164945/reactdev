@@ -1,0 +1,20 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "description": "installation:\r npm i react react-dom @babel/standalone --- save",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/standalone": "^7.26.7",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "react": "18.2",
+    "react-dom": "18.2",
+    "save": "^2.9.0"
+  }
+}
